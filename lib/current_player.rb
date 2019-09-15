@@ -16,4 +16,4 @@ end
   #end  
 #end  
 
-input_type = gets =~ /hello/i ? "greeting" : "other"
+current_player(board) = gets =~ /hello/i ? "greeting" : "other"
