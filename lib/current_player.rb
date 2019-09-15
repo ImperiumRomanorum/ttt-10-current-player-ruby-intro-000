@@ -16,4 +16,4 @@ end
 #  end  
 #end  
 
-curren_player(board) turn_count(board) % 2 == 0 ? "X" : "O"
+current_player(board) turn_count(board) % 2 == 0 ? "X" : "O"
